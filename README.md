@@ -1,4 +1,4 @@
-# Code for Intra-level and Inter-level Contexts for Generalization in Offline Meta-Reinforcement Learning, NeurIPS 2024
+# Code for Improving Generalization in Offline Meta-Reinforcement Learning with Intra-task and Inter-task Contexts, NeurIPS 2024
 
 ## Installation
 To install locally, you will need to first install [MuJoCo](https://www.roboti.us/index.html). 

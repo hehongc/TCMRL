@@ -48,8 +48,6 @@ class PEARLAgent(nn.Module):
     def __init__(self,
                  latent_dim,
                  context_encoder,
-                 # CORRO 模块
-                 # 实现类似 attention 的操作
                  context_score_encoder,
                  policy,
                  **kwargs

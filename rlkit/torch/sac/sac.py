@@ -2005,7 +2005,6 @@ class CPEARL(OMRLOnlineAdaptAlgorithm):
         self.c_optimizer = optimizer_class(self.c.parameters(), lr=self.c_lr)
         self.context_optimizer = optimizer_class(self.agent.context_encoder.parameters(), lr=self.context_lr)
 
-        # CORRO Part
         self.context_score_optimizer = optimizer_class(self.agent.context_score_encoder.parameters(), lr=self.context_lr)
 
         self.pred_loss = nn.MSELoss()

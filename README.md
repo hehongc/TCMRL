@@ -1,4 +1,4 @@
-# Code for Intra-task and Inter-task Contexts for Improving Generalization in Offline Meta-Reinforcement Learning, ICLR 2025
+# Task Characteristic and Contrastive Contexts for Improving Generalization in Offline Meta-Reinforcement Learning, ICLR 2025
 
 ## Installation
 To install locally, you will need to first install [MuJoCo](https://www.roboti.us/index.html). 
